@@ -17,7 +17,7 @@ Este es un espacio para mostrar modelos innovadores y emocionantes de GPT creado
 
 ¡Tus estrellas 🌟 y recomendaciones 🫶 son lo que hace única a esta comunidad!
 
-## 🌟 Directrices para Compromisos y PRs
+## 🌟 Directrices para Commits y PRs
 Para agilizar el desarrollo de nuestro proyecto, tenemos directrices específicas, pero sencillas, para los compromisos y PRs:
 - **Mensaje del Commit**: Usa el formato `[GPT-name][GPT-description]`.
 - **Título del PR**: Mantenlo idéntico a tu commit para la consistencia.
